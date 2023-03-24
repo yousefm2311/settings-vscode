@@ -1,0 +1,70 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": true,
+    "dart.flutterSdkPaths": [
+        "C:\\SRC\\flutter"
+    ],
+    "dart.sdkPaths": [
+        "C:\\dart-sdk"
+    ],
+    "tabnine.experimentalAutoImports": true,
+    "dart.flutterTestAdditionalArgs": [
+        "--no-sound-null-safety"
+    ],
+    "dart.flutterTestLogFile": null,
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "githubPullRequests.queries": [
+        {
+            "label": "Waiting For My Review",
+            "query": "is:open review-requested:${user}"
+        },
+        {
+            "label": "Assigned To Me",
+            "query": "is:open assignee:${user}"
+        },
+        {
+            "label": "Created By Me",
+            "query": "is:open author:${user}"
+        }
+    ],
+    "redhat.telemetry.enabled": true,
+    "cmake.configureOnOpen": true,
+    "enableTelemetry": true,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "files.autoSave": "afterDelay",
+    "open-php-html-js-in-browser.selectedBrowser": "",
+    "settingsSync.ignoredExtensions": [
+        "ms-vsliveshare.vsliveshare"
+    ],
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "git.autofetch": true,
+    "workbench.colorTheme": "Field Lights",
+    "editor.accessibilitySupport": "on",
+    "window.zoomLevel": 1,
+    "json.schemas": [
+    
+    ]
+}
